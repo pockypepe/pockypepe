@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ...
   <img src="https://img.shields.io/badge/_-Java-red" />
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pockypepe&show_icons=true&theme=tokyonight)
+
 <!--
 **pockypepe/pockypepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
