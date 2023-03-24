@@ -18,6 +18,8 @@
   <div></div>
   <img src="https://img.shields.io/badge/Flutter-02569B?&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?&logo=Dart&logoColor=white"/>
+  <div></div>
+  <img src="https://img.shields.io/badge/Notion-000000?&logo=Notion&logoColor=white"/>
   
   <hr>
 
