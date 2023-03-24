@@ -2,11 +2,12 @@
 
   ### Hi there 👋
 
-  - 🌱 I’m currently learning ...
+  🌱 I’m currently learning ...
   <img src="https://img.shields.io/badge/_-Java-red" />
   <hr>
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pockypepe&show_icons=true&theme=tokyonight)
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pockypepe&layout=compact&theme=tokyonight)
 
 
