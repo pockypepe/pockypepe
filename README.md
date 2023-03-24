@@ -1,7 +1,8 @@
 <div align="center">
-### Hi there 👋
 
-- 🌱 I’m currently learning ...
+  ### Hi there 👋
+
+  - 🌱 I’m currently learning ...
   <img src="https://img.shields.io/badge/_-Java-red" />
   <hr>
 
@@ -25,4 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  </div>
+</div>
