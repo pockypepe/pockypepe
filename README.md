@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ...
-  <img src="https://img.shields.io/static/v1label=?&message=Java&color=red" />
+  <img src="https://img.shields.io/badge/Space-Java-red" />
 
 <!--
 **pockypepe/pockypepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
