@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ...
-  java in SSAFY 9th
+  java
+  https://img.shields.io/static/v1?label=<LABEL>&message=<Java>&color=<red>
 
 <!--
 **pockypepe/pockypepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
