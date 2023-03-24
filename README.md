@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning ...
   java
-  <img src="https://img.shields.io/static/v1?label=<LABEL>&message=<Java>&color=<red>" />
+  <img src="https://img.shields.io/static/v1?&message=Java&color=red" />
 
 <!--
 **pockypepe/pockypepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
