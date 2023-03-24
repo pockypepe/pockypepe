@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋
 
 - 🌱 I’m currently learning ...
@@ -23,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  </div>
