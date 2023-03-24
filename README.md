@@ -24,9 +24,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"/>
   
   <hr>
-
+  <!--GitHub Status-->
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pockypepe&show_icons=true&theme=tokyonight)
-  
+  <!--Most Language-->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pockypepe&layout=compact&theme=tokyonight)
 
 
