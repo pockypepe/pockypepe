@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ...
+  java in SSAFY 9th
+
 <!--
 **pockypepe/pockypepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
