@@ -3,9 +3,13 @@
   ### Hi there 👋
 
   🌱 I’m currently learning ...
-  
+  <!--
+    아이콘 배지 넣는 방법
+     1. https://simpleicons.org 에서 원하는 아이콘 찾기
+     2. <img src="https://img.shields.io/badge/텍스트-컬러코드?style=원하는스타일&logo=아이콘이름&logoColor=white"/> 
+  -->
   <img src="https://img.shields.io/badge/_-Java-red" />
-  <img src="https://img.shields.io/badge/HTML-E34F26-HTML-E34F26" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?&logo=HTML5&logoColor=white"/>
   
   <hr>
 
