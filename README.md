@@ -5,6 +5,7 @@
   🌱 I’m currently learning ...
   
   <img src="https://img.shields.io/badge/_-Java-red" />
+  <img src="https://img.shields.io/badge/_-HTML-E34F26" />
   
   <hr>
 
