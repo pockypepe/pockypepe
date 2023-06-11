@@ -13,8 +13,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?&logo=vuedotjs&logoColor=white"/>
   <div></div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/>
+  <div></div>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?&logo=springboot&logoColor=white"/>
   <div></div>
   <img src="https://img.shields.io/badge/Flutter-02569B?&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?&logo=Dart&logoColor=white"/>
