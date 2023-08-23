@@ -25,6 +25,7 @@
   <div></div>
   <img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?&logo=nginx&logoColor=white"/>
   <div></div>
   <img src="https://img.shields.io/badge/Notion-000000?&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?&logo=GitHub&logoColor=white"/>
