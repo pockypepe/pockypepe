@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?&logo=Dart&logoColor=white"/>
   <div></div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white"/>
+  <div></div>
   <img src="https://img.shields.io/badge/Notion-000000?&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"/>
