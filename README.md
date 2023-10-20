@@ -55,15 +55,11 @@
         </td>
     </tr>
     <tr>
-        <td><b>VC</b></td>
+        <td><b>CI/CD</b></td>
         <td>
             <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
             <img src="https://img.shields.io/badge/GitHub-181717?&logo=GitHub&logoColor=white"/>
             <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white">
-            <a href="https://www.figma.com/file/KObkmkOWMarSul47fAAYC0/B108?type=design&node-id=0-1&mode=design">
-              <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
-            </a>
-            <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"><br> 
         </td>
     </tr>
     <tr>
@@ -74,6 +70,8 @@
             <!-- <a href="https://big-perfume-709.notion.site/PTJ-B108-8-4ce560e6b10c413db20052fe08af0db9?pvs=4"> -->
             <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white">
             <!-- </a> -->
+            <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+            <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
         </td>
     </tr>
 </table>
