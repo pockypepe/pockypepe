@@ -2,7 +2,7 @@
 
   ### Hi there 👋
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning in SSAFY 9th...
 <!--
 아이콘 배지 넣는 방법
     1. https://simpleicons.org 에서 원하는 아이콘 찾기
